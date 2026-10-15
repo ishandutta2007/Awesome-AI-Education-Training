@@ -72,9 +72,9 @@ The table below benchmarks key hosted platforms for AI and machine learning educ
 
 ## 🔓 Open-Source GitHub Projects
 
-The table below lists community-driven, open-source educational curricula, books, and code roadmaps. Projects are sorted in descending order by **GitHub Star count**, linking directly to their stargazers page.
+The table below lists community-driven, open-source educational curricula, books, and code roadmaps. Projects are sorted in descending order by **GitHub Stars_Count**, linking directly to their stargazers page.
 
-| Repository | Stars | Primary Topic & Coverage | License |
+| Repository | GitHub_Stars | Primary Topic & Coverage | License |
 | :--- | :--- | :--- | :--- |
 | **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** | [![Stars](https://img.shields.io/github/stars/microsoft/generative-ai-for-beginners?style=social&color=white)](https://github.com/microsoft/generative-ai-for-beginners/stargazers) | 21 comprehensive lessons teaching generative AI apps, prompt engineering, RAG, vector databases, and multi-agent systems. | MIT |
 | **[rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)** | [![Stars](https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=social&color=white)](https://github.com/rasbt/LLMs-from-scratch/stargazers) | Complete step-by-step code implementation to build, train, fine-tune, and optimize ChatGPT-like LLMs from scratch. | Apache-2.0 |
@@ -136,7 +136,7 @@ We welcome additions, corrections, and improvements from the community!
 1. **Fork the repository** to your personal account.
 2. **Add or edit entries** in `README.md` following the established table formats:
    - For **SaaS products**: include platform name, scale/valuation, specific starting tier pricing, explicit free tier limits/trial duration, and a concise summary.
-   - For **Open-Source repositories**: include repository handle, social star badge linking to `/stargazers`, concise description, and open-source license.
+   - For **Open-Source repositories**: include repository handle, social Stars_Badge linking to `/stargazers`, concise description, and open-source license.
 3. **Verify all links** and ensure markdown formatting is clean.
 4. **Submit a Pull Request** with a descriptive title and brief overview of your changes.
 
